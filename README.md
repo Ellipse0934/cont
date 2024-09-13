@@ -1,6 +1,6 @@
 # Cont
 
-![Static Badge](https://img.shields.io/badge/docs-latest-blue?style=flat&link=https%3A%2F%2Ffarkon00.github.io%2Fcont%2F)
+[![Static Badge](https://img.shields.io/badge/docs-latest-blue?style=flat)](https://farkon00.github.io/cont)
 
 __Cont__ is a compiled statically-typed concatenative programming language,
 that has elements of OOP, is written in Python and is inspired by [Porth](https://gitlab.com/tsoding/porth).
